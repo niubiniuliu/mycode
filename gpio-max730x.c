@@ -46,7 +46,7 @@
 #define PIN_CONFIG_IN_WO_PULLUP 0x02
 #define PIN_CONFIG_OUT 0x01
 
-#define PIN_NUMBER 28
+#define PIN_NUMBER 66
 
 static int max7301_direction_input(struct gpio_chip *chip, unsigned offset)
 {
