@@ -18,7 +18,7 @@
 #include <linux/slab.h>
 
 #include <lantiq_soc.h>
-
+asdfsdfasdfsdf
 /*
  * By attaching hardware latches to the EBU it is possible to create output
  * only gpios. This driver configures a special memory address, which when
